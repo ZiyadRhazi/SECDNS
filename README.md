@@ -12,7 +12,7 @@ This project implements both:
 
 ---
 
-## 🔐 Features
+## Features
 
 - RSA-based session initialization (public key handshake)
 - AES-GCM encrypted DNS queries and responses
@@ -23,7 +23,7 @@ This project implements both:
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repository:
 
